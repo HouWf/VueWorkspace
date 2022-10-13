@@ -1,0 +1,5 @@
+
+export const RECORD_ADDRESS = 'RECORD_ADDRESS'
+export const CHANGE_USERNAME = 'CHANGE_USERNAME'
+export const GET_USERINFO = 'GET_USERINFO'
+export const RESET_NAME = 'RESET_NAME'
