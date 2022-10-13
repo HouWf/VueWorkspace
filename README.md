@@ -1,9 +1,13 @@
-# workspace
-自用基础项目，借鉴于：http://t.zoukankan.com/phoebeyue-p-10303739.html。感谢大佬提供的方式。
-制作vue项目管理空间，支持多项目共用一套css、js、组件功能。
+# VueWorkspace
+基于vue.config.js的多项目管理空间，支持多项目共用一套css、js、组件功能
+
 增加vue-router基础用法  === 见projectA
+
 增加vuex基础用法及相关注释说明 === 见projectA
+
 一切都在config中
+
+自用基础项目，借鉴于：http://t.zoukankan.com/phoebeyue-p-10303739.html。感谢大佬提供的方式。
 
 ## Project setup
 ```
